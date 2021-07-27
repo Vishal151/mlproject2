@@ -28,7 +28,7 @@ joblib
 memoized-property
 termcolor
 
-git+https://github.com/Vishal151/mlprojectreboot.git
+# git+https://github.com/Vishal151/mlprojectreboot.git
 
 # git+https://github.com/path_to_my_project.git
 # git+git://github.com/path/to/package-two@master#egg=package-two
